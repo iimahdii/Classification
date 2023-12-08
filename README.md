@@ -82,11 +82,11 @@ Credit to the authors and contributors of the research paper that inspired this 
 
 ## Hashtags
 
-# WaveletCNN
-# HyperspectralImaging
-# DeepLearning
-# RemoteSensing
-# FeatureExtraction
-# AttentionMechanism
-# ImageClassification
-# CropYieldPrediction 
+#WaveletCNN
+#HyperspectralImaging
+#DeepLearning
+#RemoteSensing
+#FeatureExtraction
+#AttentionMechanism
+#ImageClassification
+#CropYieldPrediction 
